@@ -15,3 +15,4 @@ To resolve this, perform the following steps:
 6. Enter your password or perform biometric authentcation if prompted
 
 I included the script in the repository so that you can see what steps occur during the installation and launch procedures.
+The script was heavily inspired by this [post]([url](https://www.cloudynights.com/topic/753290-planetarysystemstacker-installation-issues/?p=13545836)) from _mdolenga_ in a Cloudy Nights thread.
