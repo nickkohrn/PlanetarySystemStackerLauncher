@@ -5,7 +5,7 @@ This is a simple macOS wrapper application for launching [PlanetarySystemStacker
 The macOS application will exectute the `pss.sh` script, which will download any necessary dependencies and launch the PlanetarySystemStacker application.
 
 After downloading the `.zip` file from this repository, place the unzipped directory in your preferred location. You may then place the `PlanetarySystemStackerLauncher.app` file in your `Applications` directory.
-To launch the application, double-click on `PlanetarySystemStacker.app`. It is likely that you will see a macOS prompt stating that the application was not opened because macOS could not verify the app is free of malware.
+To launch the application, double-click on `PlanetarySystemStacker.app`. It is likely that you will see a macOS prompt stating that the application was not opened because macOS could not verify the app is free of malware. This is because I did not attempt to make the project available via App Store. Because I do not own the rights to the PlanetarySystemStacker project, Apple will not allow this project to be made available by me on App Store.
 ![CleanShot 2024-11-14 at 12 28 31@2x](https://github.com/user-attachments/assets/8f3578a9-f35d-444e-b204-50ac9c6ff1b3)
 To resolve this, perform the following steps:
 1. Open Settings
