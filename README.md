@@ -16,3 +16,5 @@ To resolve this, perform the following steps:
 
 I included the script in the repository so that you can see what steps occur during the installation and launch procedures.
 The script was heavily inspired by this [post](https://www.cloudynights.com/topic/753290-planetarysystemstacker-installation-issues/?p=13545836) from _mdolenga_ in a Cloudy Nights thread.
+
+If you prefer to discard the macOS application which comes bundled in the download, you can use the `pss.sh` script to launch PlanetarySystemStacker. Simply rename `pss.sh` to `pss.command`. Then, you can double-click on `pss.command` when you want to launch PlanetarySystemStacker. If you choose to use the bundled `PlanetarySystemStackerLauncher.app`, then you can place it into your dock for easy access.
