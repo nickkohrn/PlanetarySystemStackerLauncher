@@ -1,5 +1,6 @@
-Disclaimer: I do not use PlanetarySystemStacker, but I was made aware that there is a desire for an easier installation process. This prompted me to create a macOS application which acts as a launcher for PlanetarySystemStacker.
-If you encounter issues, reach out and I will do my best to fix them.
+Disclaimer: I do not use PlanetarySystemStacker, but I was made aware that there is a desire for an easier installation process. This prompted me to create a macOS application which acts as a launcher for PlanetarySystemStacker. I did not modify the original PlanetarySystemStacker project.
+
+If you encounter issues, reach out and I will do my best to fix them. However, if there is a problem with the PlanetarySystemStacker application, I am unable to assist because I did not write, nor do I maintain, that project.
 
 This is a simple macOS wrapper application for launching [PlanetarySystemStacker]([url](https://github.com/Rolf-Hempel/PlanetarySystemStacker/tree/master)).
 The macOS application will exectute the `pss.sh` script, which will download any necessary dependencies and launch the PlanetarySystemStacker application.
